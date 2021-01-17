@@ -1,0 +1,15 @@
+html, body{
+    margin: 0px;
+    background-color: black;
+}
+#titulo{
+    color: white;
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+#nome{
+    padding-left: 20px;
+    color: white;
+}
